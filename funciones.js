@@ -3,7 +3,7 @@ const link = document.querySelector('a');
 
   
 // Establece la fecha límite en la que quieres que termine la cuenta atrás
-const deadline = new Date("2023-03-24T24:00:00");
+const deadline = new Date("2023-03-23T24:00:00");
 
 function updateCountdown() {
   // Obtiene la fecha actual
